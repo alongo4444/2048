@@ -8,5 +8,5 @@ Made by:
   
 
 How to run the program:
-  * To execute the UI, run the Game.Py script.
+  * To execute the UI, run the Game.Py script (using Pycharm or other python IDE).
 
