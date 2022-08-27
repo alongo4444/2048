@@ -2,6 +2,8 @@ import threading
 
 import Tile
 import random
+import pkg_resources
+pkg_resources.require("playsound==1.2.2")
 from playsound import playsound
 
 class Board:
